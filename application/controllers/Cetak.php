@@ -30,4 +30,5 @@ class Cetak extends CI_Controller {
 
 }
 
-/* End of file Cetak.php */
+/* End of file Cetak
+.php */
